@@ -13,4 +13,7 @@ Smart parking app using IoT to detecte if a parking slot is avalible or busy, Yo
 
 ### Book parking
 
-<img src="https://firebasestorage.googleapis.com/v0/b/teleprompter-9cd6d.appspot.com/o/Screenshot_20220311-174739.png?alt=media&token=2c5632e3-2918-4f8c-b545-03db9318d945" alt="drawing" width="320"/>
+<img src="https://firebasestorage.googleapis.com/v0/b/teleprompter-9cd6d.appspot.com/o/Screenshot_20220311-174739.png?alt=media&token=2c5632e3-2918-4f8c-b545-03db9318d945" alt="drawing" width="340"/>
+
+### Profile
+<img src="https://firebasestorage.googleapis.com/v0/b/teleprompter-9cd6d.appspot.com/o/Screenshot_20220311-174801.png?alt=media&token=0d1009fc-b875-44e8-8eb1-bf9b336da540" alt="drawing" width="320"/><img src="https://firebasestorage.googleapis.com/v0/b/teleprompter-9cd6d.appspot.com/o/Screenshot_20220311-174756.png?alt=media&token=ce09e3f2-89f0-4d08-a68f-bc602e909472" alt="drawing" width="320"/>
