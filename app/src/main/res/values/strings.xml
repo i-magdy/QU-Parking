@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">QUParking</string>
+
+    <string name="user_name">Name</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="sign_up_button">SIGN UP</string>
+    <string name="login_button">LOG IN</string>
+    <string name="empty_message">Field cannot be empty</string>
+    <string name="email_message">invalid email "example@company.com"</string>
+    <string name="phone_error">invalid phone number.</string>
+    <string name="not_matching_pass">password not matching</string>
+    <string name="login_email_error_message">User email does not exist.</string>
+    <string name="login_password_message">You have entered incorrect password.</string>
+
+    <!-- main activity -->
+    <string name="user_list_button">Users</string>
+    <string name="parking_slots_button">Parking Slots</string>
+
+    <string name="menu">Sign out</string>
+    <string name="change_pass_button">Change password</string>
+    <string name="cancel">Cancel</string>
+    <string name="edit">edit</string>
+    <string name="tag">RFID Tag</string>
+    <string name="booking_time">Booking Timeout</string>
+
+</resources>

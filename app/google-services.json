@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "237906982367",
+    "project_id": "qu-smartparking",
+    "storage_bucket": "qu-smartparking.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237906982367:android:781a95bfbeb933ac6c406a",
+        "android_client_info": {
+          "package_name": "com.example.quparking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "237906982367-vf1ahrt8bhtont099m273avkhp7chp8e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.quparking",
+            "certificate_hash": "63bdd6a60ffb1b488e56a008885eeee74eddc0d7"
+          }
+        },
+        {
+          "client_id": "237906982367-3cn0flr25cqcldt7fc5014uo6l0q7pd1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAb7sNwBDMowlFiu4l8qG8VoSrOwCkGhX4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "237906982367-3cn0flr25cqcldt7fc5014uo6l0q7pd1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
