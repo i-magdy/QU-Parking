@@ -1,5 +1,5 @@
 # QU-Parking
-Smart parking app using IoT to detecte if a parking slot is avalible or busy, You can book a parking slot before going to the parking.
+Smart parking app using IoT to detecte if a parking slot is avalible or busy communicate over Firebase cloud, You can book a parking slot before going to the parking.
 
 ### Registration page
 
